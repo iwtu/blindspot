@@ -1,0 +1,2 @@
+# blindspot
+Blindspot interview task
